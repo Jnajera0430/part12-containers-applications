@@ -1,0 +1,7 @@
+docker run -it ubuntu bash //correr la image de ubuntu desde docker
+
+cd usr/src // acceder a la carpeta donde se va a crear el archivo
+
+touch index.js // uso este comando para crear el archivo
+
+exit //palabra recervada para salirme del contenedor
