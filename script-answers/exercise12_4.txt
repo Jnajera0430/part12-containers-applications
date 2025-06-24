@@ -1,0 +1,1 @@
+node /usr/src/app/index.js // el comando node sirve para ejecutar files con extension js 

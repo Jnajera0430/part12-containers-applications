@@ -5,3 +5,10 @@ cd usr/src // acceder a la carpeta donde se va a crear el archivo
 touch index.js // uso este comando para crear el archivo
 
 exit //palabra recervada para salirme del contenedor
+
+docker start +_name_or_id // para arranacar un contenedor opcion -i interactive para entrar en el contenedor corriendo
+
+docker container ls // para listar los contenedores arrancados con la bandera -a se listan hasta los que han sido frenados
+
+docker kill +_name_or_id // para matar la ejecucion de un contenedor
+
